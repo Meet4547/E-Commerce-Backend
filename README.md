@@ -5,7 +5,7 @@
 
 ## E-R Diagram for the application
 
-[![E-R Diagram](./ER%20Diagram/E-Commerce%20API%20ER%20Diagram.jpeg?raw=true)](https://github.com/Meet4547/E-Commerce-Backend/issues/1#issue-2177057689)
+![E-Commerce API ER Diagram](https://github.com/Meet4547/E-Commerce-Backend/assets/109421725/85532ae6-28f5-462e-ad86-d1859228ea5e)
 
 ## Tech Stack
 
